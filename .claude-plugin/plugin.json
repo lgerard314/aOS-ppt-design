@@ -1,0 +1,10 @@
+{
+  "name": "aos-ppt-design",
+  "displayName": "AthleteOS PowerPoint design",
+  "version": "1.0.0",
+  "description": "AthleteOS brand design guidelines for PowerPoint: colour, type, layout, shapes, photography and logo rules, with the logo and font files.",
+  "author": {
+    "name": "lgerard314"
+  },
+  "repository": "https://github.com/lgerard314/aOS-ppt-design"
+}

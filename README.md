@@ -4,7 +4,7 @@ A Claude Code plugin that makes Claude build PowerPoint slides in the AthleteOS 
 
 ## Install
 
-The plugin is listed in the `athleteOS-plugins` marketplace, which lives in `lgerard314/athleteOS-marketplace`. Both repositories are private, so the machine needs git access to them.
+The plugin is listed in the `athleteOS-plugins` marketplace, which lives in `lgerard314/athleteOS-marketplace`. Both repositories are public, so no access needs granting.
 
 ```text
 /plugin marketplace add lgerard314/athleteOS-marketplace
